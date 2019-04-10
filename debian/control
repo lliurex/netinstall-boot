@@ -1,0 +1,14 @@
+Source: netinstall-boot
+Section: admin
+Priority: optional
+Maintainer: M.Angel Juan <m.angel.juan@gmail.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: http://lliurex.net
+Vcs-Git: https://github.com/lliurex/netinstall-boot.git
+
+Package: netinstall-boot
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, pxelinux (>= 6.04~git20190206), syslinux-common (>= 6.04~git20190206)
+Description: Netinstall boot menu
+ This package provides menu files used to install a system from network
