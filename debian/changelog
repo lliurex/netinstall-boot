@@ -1,3 +1,9 @@
+netinstall-boot (0.2) bionic; urgency=medium
+
+  * Allow install two architectures at same time
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Wed, 10 Apr 2019 21:45:30 +0200
+
 netinstall-boot (0.1) bionic; urgency=medium
 
   * Initial Release.
