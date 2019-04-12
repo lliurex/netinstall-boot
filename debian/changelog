@@ -1,3 +1,9 @@
+netinstall-boot (0.2.2) bionic; urgency=medium
+
+  * Add HDT,Localboot & Memtest as expert options
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Fri, 12 Apr 2019 14:26:30 +0200
+
 netinstall-boot (0.2.1) bionic; urgency=medium
 
   * Fix
