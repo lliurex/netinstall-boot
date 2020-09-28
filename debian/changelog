@@ -1,3 +1,9 @@
+netinstall-boot (0.2.2) focal; urgency=medium
+
+  * Focal release
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Mon, 28 Sep 2020 11:11:47 +0200
+
 netinstall-boot (0.2.2) bionic; urgency=medium
 
   * Add HDT,Localboot & Memtest as expert options
